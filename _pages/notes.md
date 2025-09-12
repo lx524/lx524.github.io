@@ -26,3 +26,12 @@ Notes on some courses taken at the University of Waterloo.
 5. [PMATH 333](../files/W25-PMATH333.pdf)
 6. [PMATH 348](../files/W25-PMATH348.pdf) -->
 
+Currently taking:
+| Course | Instructor |
+|:--------|:-------:|
+| Introduction to Combinatorics: [MATH 239](../files/F25-MATH239.pdf)  | Douglas Stebila   |
+| Applied Linear Models: [STAT 331](../files/F25-STAT331.pdf)   | Kun Liang   |
+|-----------------------------|
+| Sampling and Experimental Design: [STAT 332](../files/F25-STAT332.pdf)   | Samuel Wong   |
+| Investment Science and Corporate Finance: [ACTSC 372](../files/F25-ACTSC372.pdf)   | Surya Banerjee   |
+|=============================|
