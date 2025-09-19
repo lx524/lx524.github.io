@@ -37,8 +37,8 @@ Currently taking:
 | Statistics: [STAT 231](../files/F24-STAT231.pdf) | Michael Wallace | Completed |
 | Mathematical Statistics: [STAT 330](../files/W25-STAT330.pdf) | Yeying Zhu | Completed |
 | Fields and Galois Theory: [PMATH 348](../files/W25-PMATH348.pdf) | Yu-Ru Liu | Completed |
-| Introduction to Combinatorics: [MATH 239](../files/F25-MATH239.pdf) | Douglas Stebila | Update: 2025/09/12 |
-| Applied Linear Models: [STAT 331](../files/F25-STAT331.pdf) | Kun Liang | Update: 2025/09/12 |
-| Sampling and Experimental Design: [STAT 332](../files/F25-STAT332.pdf) | Samuel Wong | Update: 2025/09/12 |
-| Investment Science and Corporate Finance: [ACTSC 372](../files/F25-ACTSC372.pdf) | Surya Banerjee | Update: 2025/09/12 |
+| Introduction to Combinatorics: [MATH 239](../files/F25-MATH239.pdf) | Douglas Stebila | Updated: 2025/09/19 |
+| Applied Linear Models: [STAT 331](../files/F25-STAT331.pdf) | Kun Liang | Updated: 2025/09/19 |
+| Sampling and Experimental Design: [STAT 332](../files/F25-STAT332.pdf) | Samuel Wong | Updated: 2025/09/19 |
+| Investment Science and Corporate Finance: [ACTSC 372](../files/F25-ACTSC372.pdf) | Surya Banerjee | Updated: 2025/09/12 |
 
