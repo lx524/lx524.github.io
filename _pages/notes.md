@@ -40,5 +40,5 @@ Currently taking:
 | Introduction to Combinatorics: [MATH 239](../files/F25-MATH239.pdf) | Douglas Stebila | Updated: 2025/09/19 |
 | Applied Linear Models: [STAT 331](../files/F25-STAT331.pdf) | Kun Liang | Updated: 2025/09/19 |
 | Sampling and Experimental Design: [STAT 332](../files/F25-STAT332.pdf) | Samuel Wong | Updated: 2025/09/19 |
-| Investment Science and Corporate Finance: [ACTSC 372](../files/F25-ACTSC372.pdf) | Surya Banerjee | Updated: 2025/09/12 |
+| Investment Science and Corporate Finance: [ACTSC 372](../files/F25-ACTSC372.pdf) | Surya Banerjee | Updated: 2025/09/20 |
 
