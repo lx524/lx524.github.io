@@ -42,4 +42,5 @@ Currently taking:
 | Applied Linear Models: [STAT 331](../files/F25-STAT331.pdf) | Kun Liang | Completed |
 | Sampling and Experimental Design: [STAT 332](../files/F25-STAT332.pdf) | Samuel Wong | Completed |
 | Investment Science and Corporate Finance: [ACTSC 372](../files/F25-ACTSC372.pdf) | Surya Banerjee | Completed |
+| Real Analysis: [PMATH 351](../files/W26-PMATH351.pdf) | Jesse Peterson | Completed |
 
