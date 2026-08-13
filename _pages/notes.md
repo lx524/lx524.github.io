@@ -43,4 +43,5 @@ Currently taking:
 | Sampling and Experimental Design: [STAT 332](../files/F25-STAT332.pdf) | Samuel Wong | Completed |
 | Investment Science and Corporate Finance: [ACTSC 372](../files/F25-ACTSC372.pdf) | Surya Banerjee | Completed |
 | Real Analysis: [PMATH 351](../files/W26-PMATH351.pdf) | Jesse Peterson | Completed |
-
+| Measure Theory: [PMATH 450](../files/S26-PMATH450.pdf) | Alexandru Nica | Almost Completed |
+| Statistical Learning - Advanced Regression: [STAT 444](../files/S26-STAT444.pdf) | Michael John Davis | Completed |
